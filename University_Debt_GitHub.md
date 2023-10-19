@@ -45,7 +45,9 @@ draw a side-by-side comparison and plot two box-plots of these two
 samples, to find that the sample evidences approximately support the
 normality assumptions.
 
-![](University_Debt_GitHub_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->  
+![](University_Debt_GitHub_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+
+  
 In addition, we produce quantile-quantile (Q-Q) plot for each sample to
 check whether the two data sets come from populations with a common
 distribution. The Q-Q plots also support the normality assumption about
