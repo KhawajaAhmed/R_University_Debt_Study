@@ -14,6 +14,7 @@ This project involved an in-depth statistical analysis comparing the average deb
 **Conclusion:** Summarized the results, highlighting that the t-test did not find a statistically significant difference between the average debt of graduates from small and large private universities.
 
 # Directory Details
-* *University_Debt_GitHub.Rmd* contains the R source code and Latex script.
-*  *University_Debt_GitHub.md* can be used to view the **Final Report**.
-*  *college_debt.csv* is the dataset that was used for statistical analysis in this report.
+* *University_Debt_GitHub.md* can be used to view the **Final Report**.
+* *University_Debt_GitHub.R* contains R source code.
+* *University_Debt_GitHub.Rmd* contains the R source code with the Latex script.
+* *college_debt.csv* is the dataset that was used for statistical analysis in this report.
