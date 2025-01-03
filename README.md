@@ -1,7 +1,7 @@
 # R_University_Debt_Study
 
 # Description 
-This project involved an in-depth statistical analysis comparing the average debt of graduates from small private universities with that of graduates from large, private universities in R/RStudio. The goal was to determine whether a statistically significant difference existed between these two groups. To achieve this, I employed two independent sample hypothesis testing procedures, focusing on conducting a two-sample t-test.
+This project involved an in-depth statistical analysis comparing the average debt of graduates from small private universities with that of graduates from large, private universities in R/RStudio. The goal was to determine whether a statistically significant difference existed between these two groups. To achieve this, I employed two independent sample hypothesis testing procedures, focusing on conducting a two-sample t-test. This is a **sample report** with university data from kaggle. The original report had similar code and format, but was presented to university officials with private data from large and small private univerisities from Indiana. The original data has not been shared due to provacy concerns. 
 
 **Achievements**
 
